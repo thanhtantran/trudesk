@@ -25,7 +25,7 @@ Quickly resolve issues & task with an easy-to-use solution. Built with one goal 
 
 #### Deploy Trudesk Anywhere
 **Trudesk** is built with <a href="https://nodejs.org">nodejs</a> and <a href="https://mongodb.org">mongodb</a> and can run on any cloud provider, docker, bare-metal, or on a orange pi.
-This command word  on Ubuntu 20.04 and an AMD64 machine only - <br />`curl -L -s https://storage.trudesk.io/install/ubuntu-1.2.sh | sudo bash`
+This command works on Ubuntu 20.04 and an AMD64 machine only - <br />`curl -L -s https://storage.trudesk.io/install/ubuntu-1.2.sh | sudo bash`
 
 If you want to run on ARM64 as an Orange Pi 5, please using this <br />
 ```
